@@ -1,0 +1,10 @@
+C:\Users\jager\Desktop\CSHARPTUTORIAL\RecapDemo\RecapDemo\bin\Debug\RecapDemo.exe.config
+C:\Users\jager\Desktop\CSHARPTUTORIAL\RecapDemo\RecapDemo\bin\Debug\RecapDemo.exe
+C:\Users\jager\Desktop\CSHARPTUTORIAL\RecapDemo\RecapDemo\bin\Debug\RecapDemo.pdb
+C:\Users\jager\Desktop\CSHARPTUTORIAL\RecapDemo\RecapDemo\obj\Debug\RecapDemo.csproj.AssemblyReference.cache
+C:\Users\jager\Desktop\CSHARPTUTORIAL\RecapDemo\RecapDemo\obj\Debug\RecapDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\jager\Desktop\CSHARPTUTORIAL\RecapDemo\RecapDemo\obj\Debug\RecapDemo.Properties.Resources.resources
+C:\Users\jager\Desktop\CSHARPTUTORIAL\RecapDemo\RecapDemo\obj\Debug\RecapDemo.csproj.GenerateResource.cache
+C:\Users\jager\Desktop\CSHARPTUTORIAL\RecapDemo\RecapDemo\obj\Debug\RecapDemo.csproj.CoreCompileInputs.cache
+C:\Users\jager\Desktop\CSHARPTUTORIAL\RecapDemo\RecapDemo\obj\Debug\RecapDemo.exe
+C:\Users\jager\Desktop\CSHARPTUTORIAL\RecapDemo\RecapDemo\obj\Debug\RecapDemo.pdb
